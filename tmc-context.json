@@ -1,0 +1,34 @@
+{
+  "documents": [
+    {
+      "url": "https://www.inwc.ktb.co.th/commonbc/tmc",
+      "documentURL": "https://www.inwc.ktb.co.th/commonbc/tmc",
+      "content": {
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "DoctorOnboardCredential": {
+            "@id": "https://www.inwc.ktb.co.th/commonbc/tmc#DoctorOnboardCredential",
+            "@context": {
+              "@version": 1.1,
+              "@protected": true,
+              "id": "@id",
+              "type": "@type",
+              "schema": "https://www.inwc.ktb.co.th/commonbc/tmc-specification#",
+              "citizenId": "schema:citizenId",
+              "birthDate": "schema:birthDate",
+              "gender": "schema:gender",
+              "doctorId": "schema:doctorId",
+              "titleTh": "schema:titleTh",
+              "firstNameTh": "schema:firstNameTh",
+              "lastNameTh": "schema:lastNameTh",
+              "suffixEn": "schema:suffixEn",
+              "firstNameEn": "schema:firstNameEn",
+              "lastNameEn": "schema:lastNameEn"
+            }
+          }
+        }
+      }
+    }
+  ]
+}  
